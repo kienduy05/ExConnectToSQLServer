@@ -1,1 +1,1 @@
-Module để connect Database SQL SERVER bằng JAVA. Tạo sẵn mô hình MVC
+Module để connect Database SQL SERVER bằng JAVA. Tạo sẵn mô hình MVC với chương trình quản lý sách
